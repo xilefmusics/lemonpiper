@@ -8,4 +8,4 @@ clean:
 	rm -rf lemonpiper
 
 run: lemonpiper
-	./launch.sh
+	./lemonpiper
